@@ -10,7 +10,7 @@ movie_list = {
     "TheFather": "tt10272386",
     "JudasAndTheBlackMessiah": "tt9784798",
     "TheTrialOfTheChicago7": "tt1070874",
-    "Nomadland": "tt9770150",
+    "Nomadland": "tt9770150"
 }
 
 print("IMBD Web Crawler")
